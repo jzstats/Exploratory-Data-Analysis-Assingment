@@ -5,7 +5,7 @@
  
 This repository was created for the peer-graded assignment of: 
 
-> Course 3: Getting And Cleaning Data,  
+> Course 3: Exploratory Data Analysis,  
 > from Data Science Specialization,  
 > by Johns Hopkins University,  
 > on coursera  
@@ -57,11 +57,11 @@ The assignment asked to:
    
 ## About the data used to create the plots  
  
-The data used to create the plots,  
-comes from the 'National Emissions Inventory (NEI)' database.  
+The data used to create the plots, comes from the 'National Emissions Inventory (NEI)' database.  
 Specifically the tables below were used:  
-    - 'PM2.5 Emissions Data' (summarySCC_PM25.rds)  
-    - 'Source Classification Code Table' (Source_Classification_Code.rds)  
+* 'PM2.5 Emissions Data' (summarySCC_PM25.rds)  
+* 'Source Classification Code Table' (Source_Classification_Code.rds)  
+
 which can be downloaded from 'UC Irvine Machine Learning Repository' through this link:  
     "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"   
 The scripts will download the data, if any data file needed doesn't exists in the working directory.   

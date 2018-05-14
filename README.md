@@ -54,17 +54,5 @@ The assignment asked to:
 >   4. Copy and paste the R code from the corresponding R file into the text box at the appropriate point in the   
 >      peer assessment.  
   
-   
-## About the data used to create the plots  
- 
-The data used to create the plots, comes from the 'National Emissions Inventory (NEI)' database.  
-Specifically the tables below were used:  
-* 'PM2.5 Emissions Data' (summarySCC_PM25.rds)  
-* 'Source Classification Code Table' (Source_Classification_Code.rds)  
 
-which can be downloaded from 'UC Irvine Machine Learning Repository' through this link:  
-    "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"   
-The scripts will download the data, if any data file needed doesn't exists in the working directory.   
-More informations on the dataset can be found on the link:  
-    "https://www.epa.gov/air-emissions-inventories"  
  
